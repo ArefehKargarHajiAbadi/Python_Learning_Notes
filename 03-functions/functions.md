@@ -107,4 +107,3 @@ def show_var():
 show_var()               # Output: Inside function: 20
 print("Outside function:", global_var)  # Output: Outside function: 20
 ```
-## Docstrings and Best Practices
